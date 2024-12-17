@@ -1,16 +1,16 @@
-## Hi there 👋
+### Heya 👋
 
-<!--
-**Hal609/hal609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Working on my MSc. at MMU
+- ✨ She/They
+- 🔭 You can see some of my cool projects 
+- ❤️ Feel free to reach out to me here or email hal@kolb.co.uk
 
-Here are some ideas to get you started:
+![cube-guy](cube_guy.avif) 
+![test](test.png) 
+<img src="cube_guy.avif" alt="cube_guy" width="400"/>
+<img src="test.png" alt="test" width="400"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 1 | 2 |
+| - | - |
+| - | - |
+| - | - |
