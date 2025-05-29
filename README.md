@@ -1,9 +1,9 @@
 ### Heya 👋
 
-- 🌱 Working on my MSc. at MMU
-- ✨ They/She
-- 🔭 You can see some of my projects below
-- ❤️ Feel free to reach out to me on LinkedIn or email hal@kolb.co.uk
+- 🧑‍💻 Working on my MSc.
+- ✨ She/They
+- 🗂️ You can see some of my projects below
+- ✉️ Feel free to reach out to me on LinkedIn or email hal@kolb.co.uk
 
 ## Projects
 
