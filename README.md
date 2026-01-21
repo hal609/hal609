@@ -1,5 +1,5 @@
 ## About Me 👋
-Hi, I'm Hal. I mostly work on data science, ML, RL and developing games. Check out some of my projects below. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hal-kolb-3322a8288/) or by email: hal@kolb.co.uk.
+Hi, I'm Hal. I mostly work on data science, ML and RL with some game dev on the side. Check out some of my projects below. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hal-kolb-3322a8288/) or by email: hal@kolb.co.uk.
 
 ## Interesting Projects
 
