@@ -6,7 +6,7 @@ Hi, I'm Hal. I mostly work on data science, ML and RL with some game dev on the 
 ### 🎮 The Home Console Learning Environment (HCLE) - [Paper](https://www.hkolb.co.uk/auto_ml.pdf) | [Repo](https://github.com/hal609/hcle_py_cpp)
 Framework inspired by the Arcade Learning Environment (ALE) that allows training reinforcement learning AI agents on Nintendo Entertainment System games, as ALE does for Atari 2600 games. Built on top of the NES emulator cynes to remove the burden of environment design when building RL agents.
 
-### 🚗 Price Prediction ML - [Write Up](https://www.hkolb.co.uk/auto_ml.pdf) | [Repo](https://github.com/Hal609/auto_ml)
+### 🚗 Price Prediction ML - [Report](https://www.hkolb.co.uk/auto_ml.pdf) | [Repo](https://github.com/Hal609/auto_ml)
 Trains and evaluates machine learning models on ~500,000 Auto Trader adverts. Achieves a test accuracy of 93%.
 
 ### 🚨 Leeds Crime Data Analysis - [Report](https://hkolb.co.uk/wyc_report/yorkshire_crime_report.html)
